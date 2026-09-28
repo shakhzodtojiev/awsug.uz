@@ -1,0 +1,22 @@
+{
+  "short_name": "Community Day",
+  "name": "AWS Community Day Central Asia 2026",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#01000f",
+  "background_color": "#01000f"
+}
