@@ -1,0 +1,1 @@
+var e=e=>e===`Apple Computer, Inc.`;function t(t){return[e(t.vendor)?void 0:t.hardwareConcurrency,t.deviceMemory].some(e=>typeof e==`number`&&Number.isFinite(e)&&e>0&&e<=2)}export{t};
